@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "learn-jasmine": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "learn-jasmine"
+    }
+  },
+  "defaultProject": "learn-jasmine",
+  "cli": {
+    "analytics": "67cf3d23-c10e-4d59-a065-307679a929e5"
+  }
 }
